@@ -12,3 +12,7 @@ body {
     text-align: center;
     z-index: 10001;
 }
+#header > .logo {
+    margin: 0 0 4rem 0;
+    padding: 0;
+}
