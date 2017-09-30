@@ -5,3 +5,10 @@ body {
     -moz-background-size: cover;
     background-size: cover;
 }
+#header {
+    color: #a6a6a6;
+    cursor: default;
+    position: relative;
+    text-align: center;
+    z-index: 10001;
+}
