@@ -45,3 +45,7 @@ div {
 		box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
 		border-radius: 4px;
 }
+img{
+	height: auto;
+	max-width: 100%;
+}
