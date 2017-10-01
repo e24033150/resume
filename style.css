@@ -6,10 +6,10 @@ body {
     background-size: cover;
 }
 #container { 
-  padding-top:40px; 
-  padding-left:130px; 
-  padding-right:80px; 
-  padding-bottom:80px; 
+  padding-top:50px; 
+  padding-left:50px; 
+  padding-right:50px; 
+  padding-bottom:50px; 
   border: 1px solid 000000; 
 }
 #header {
