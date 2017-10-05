@@ -12,13 +12,21 @@ body {
   padding-bottom:80px; 
   border: 1px solid 000000; 
 }
-#sidebar { 
-    float: left; 
-    width: 200px; 
-    background: #EBEBEB; 
-    padding: 15px 10px 15px 20px; 
-} 
-#mainContent { 
-    margin: 0 0 0 250px; 
-    padding: 0 20px 20px 20px; 
-} 
+.parent{
+	position:absolute;
+}
+.left{
+	position: relative;
+	float:left;
+	height: 350px;
+	width: 200px;
+	background-color: blue;
+
+}
+.right{
+	position: relative;
+	float: left;
+	height: 350px;
+	width: 200px;
+	background-color: orange;
+}
