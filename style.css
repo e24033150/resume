@@ -14,7 +14,7 @@ body {
 }
 .left{
 	border="0"
-	position: relative;
+	
 	float:left;
 	height: 350px;
 	width: 200px;
@@ -24,7 +24,7 @@ body {
 .right{
 	padding: 50px
 	border="0"
-	position: relative;
+	
 	float: left;
 	height: 350px;
 	width: 100%;
