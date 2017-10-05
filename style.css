@@ -22,16 +22,13 @@ body {
 .left{
 	position: relative;
 	float:left;
-	height: 600px;
-	width: 200px;
+	width: 170px;
 	background-color: blue;
 
 }
 .right{
-	padding:50px;
 	position: relative;
-	float: left;
-	height: 600px;
-	width: 100%;
-	background-color: orange;
+	margin-left:170px;
+	_height:1%;
+	background-color: orange;	
 }
