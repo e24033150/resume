@@ -27,6 +27,7 @@ body {
 }
 .right{
 	position: relative;
+	float:left;
 	margin-left:170px;
 	margin-bottom:100px;
 	padding-left:100px;
