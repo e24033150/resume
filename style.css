@@ -23,6 +23,8 @@ body {
 	float:left;
 	width: 250px;
 	padding-top:75px;
+	padding-left:40px;
+	padding-right:40px;
 	background-color: blue;
 
 }
