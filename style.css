@@ -22,6 +22,7 @@ body {
 	position: relative;
 	float:left;
 	width: 250px;
+	padding-top:75px;
 	background-color: blue;
 
 }
