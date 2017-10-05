@@ -25,6 +25,7 @@ body {
 
 }
 .right{
+	padding: 50px
 	border="0"
 	position: relative;
 	float: left;
