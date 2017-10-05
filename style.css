@@ -31,7 +31,6 @@ body {
 .right{
 	position: relative;
 	float:left;
-	width:100%;
 	margin-left:0px;
 	margin-right:200px;
 	margin-bottom:100px;
