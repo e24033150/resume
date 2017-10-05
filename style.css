@@ -15,7 +15,6 @@ body {
 .parent{
 	position:absolute;
 	margin-left:0px;
-	margin-right:100px
 	width:100%;
 	padding:10px;
 	overflow:auto;
