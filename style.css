@@ -30,5 +30,7 @@ body {
 	padding:50px;
 	position: relative;
 	margin-left:180px;
+	margin-right:100px;
+	margin-bottom:100px;
 	background-color: orange;	
 }
