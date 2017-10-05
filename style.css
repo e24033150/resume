@@ -15,7 +15,7 @@ body {
 .parent{
 	position:absolute;
 	margin-left:0px;
-	margin-right:200px
+	margin-right:100px
 	width:100%;
 	padding:0px;
 	overflow:auto;
@@ -31,7 +31,7 @@ body {
 	padding:50px;
 	position: relative;
 	margin-left:180px;
-	margin-right:200px;
+	margin-right:100px;
 	margin-bottom:100px;
 	background-color: orange;	
 }
