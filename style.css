@@ -30,6 +30,7 @@ body {
 .right{
 	padding:50px;
 	position: relative;
+	float:right;
 	margin-left:180px;
 	margin-right:100px;
 	margin-bottom:100px;
