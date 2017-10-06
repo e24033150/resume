@@ -13,6 +13,7 @@ body {
   border: 1px solid 000000; 
 }
 .container2 { 
+  margin-left:100px;
   padding-top:10px; 
   padding-left:100px; 
   padding-right:100px; 
