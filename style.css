@@ -23,8 +23,8 @@ body {
   float:left;
 }
 #container3 { 
-  margin-right:100px;
-  margin-bottom:100px;
+  margin-right:0px;
+  margin-bottom:0px;
   width:380px;
   float:right;
 }
