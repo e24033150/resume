@@ -24,7 +24,18 @@ body {
 	padding-top:30px;
 	padding-left:30px;
 	padding-right:30px;
-	padding-bottom:3px;
+	padding-bottom:30px;
+	background-color: #FFFFE0;
+	opacity:0.6;
+}
+.right{
+	position: relative;
+	float:right;
+	width: 220px;
+	padding-top:30px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-bottom:30px;
 	background-color: #FFFFE0;
 	opacity:0.6;
 }
