@@ -15,7 +15,7 @@ body {
 #container2 { 
   margin-left:100px;
   margin-bottom:100px;
-  width:320px;
+  width:260px;
   float:left;
 }
 #container3 { 
@@ -57,7 +57,7 @@ body {
 	position: relative;
 	right: 0px;
 	margin-left:0px;
-	margin-right:200px;
+	margin-right:5px;
 	margin-bottom:10px;
 	padding-left:80px;
 	padding-right:80px;
