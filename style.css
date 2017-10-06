@@ -61,4 +61,5 @@ body {
 	background-color: #7FFFD4;
 	opacity:0.7;
 	overflow:hidden;
+	border-radius:5px;
 }
