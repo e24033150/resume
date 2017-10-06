@@ -15,7 +15,6 @@ body {
 .parent{
 	position:absolute;
 	margin-left:0px;
-	width:100%;
 }
 .left{
 	position: relative;
