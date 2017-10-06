@@ -35,7 +35,7 @@ body {
 	float:left;
 	width: 200px;
 	margin-right:5px;
-	margin-left:5px;
+	margin-left:0px;
 	margin-top:2px;
 	margin-bottom:2px;
 	padding-top:30px;
@@ -51,7 +51,7 @@ body {
 	float:right;
 	width: 220px;
 	margin-left:5px;
-	margin-right:5px;
+	margin-right:0px;
 	margin-top:2px;
 	margin-bottom:2px;
 	padding-top:30px;
