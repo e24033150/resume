@@ -20,10 +20,7 @@ body {
   padding-bottom:80px; 
   border: 1px solid 000000; 
 }
-.parent{
-	position:absolute;
-	margin-left:0px;
-}
+
 .left{
 	position: relative;
 	float:left;
