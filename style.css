@@ -29,7 +29,8 @@ body {
 }
 .right{
 	position: relative;
-	float:right;
+	float:left;
+	right: 0px;
 	margin-left:0px;
 	margin-right:200px;
 	margin-bottom:100px;
