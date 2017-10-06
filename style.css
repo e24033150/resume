@@ -5,6 +5,10 @@ body {
     -moz-background-size: cover;
     background-size: cover;
 }
+#wrapper {
+        width: 100%;   /*寬度設定為900px*/
+        margin: auto;   /*版面居中對齊*/
+}
 #container1 { 
   padding-top:40px; 
   padding-left:100px; 
