@@ -24,8 +24,8 @@ body {
 	padding-top:75px;
 	padding-left:40px;
 	padding-right:40px;
-	background-color: blue;
-
+	background-color: #FFFFE0;
+	opacity:0.6;
 }
 .right{
 	position: relative;
