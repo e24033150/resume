@@ -14,12 +14,17 @@ body {
 }
 #container2 { 
   margin-left:100px;
-  padding-top:0px; 
-  padding-left:0px; 
-  padding-right:100px; 
-  padding-bottom:80px; 
-  border: 1px solid 000000; 
+  margin-bottom:100px;
+  width:180px;
+  float:left;
 }
+#container2 { 
+  margin-right:100px;
+  margin-bottom:100px;
+  width:180px;
+  float:right;
+}
+
 
 .left{
 	position: relative;
