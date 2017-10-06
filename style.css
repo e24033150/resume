@@ -13,7 +13,7 @@ body {
   padding-top:40px; 
   padding-left:100px; 
   padding-right:100px; 
-  padding-bottom:0px; 
+  padding-bottom:100px; 
   border: 1px solid 000000; 
 }
 #container2 { 
@@ -23,8 +23,8 @@ body {
   float:left;
 }
 #container3 { 
-  margin-right:0px;
-  margin-bottom:0px;
+  margin-right:100px;
+  margin-bottom:100px;
   width:220px;
   float:right;
 }
