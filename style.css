@@ -19,7 +19,7 @@ body {
 #container2 { 
   margin-left:100px;
   margin-bottom:100px;
-  width:200px;
+  width:220px;
   float:left;
 }
 #container3 { 
@@ -33,7 +33,7 @@ body {
 .left{
 	position: relative;
 	float:left;
-	width: 260px;
+	width: 160px;
 	margin-right:5px;
 	margin-left:0px;
 	margin-top:2px;
