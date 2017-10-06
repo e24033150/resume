@@ -32,6 +32,7 @@ body {
 	padding-bottom:30px;
 	background-color: #FFFFE0;
 	opacity:0.6;
+	border-radius:10px;
 }
 .right{
 	position: relative;
@@ -45,6 +46,7 @@ body {
 	background-color: #FFFFE0;
 	opacity:0.6;
 	overflow:hidden;
+	border-radius:10px;
 }
 .content{
 	position: relative;
