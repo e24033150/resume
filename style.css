@@ -5,8 +5,15 @@ body {
     -moz-background-size: cover;
     background-size: cover;
 }
-#container { 
+#container1 { 
   padding-top:40px; 
+  padding-left:100px; 
+  padding-right:100px; 
+  padding-bottom:0px; 
+  border: 1px solid 000000; 
+}
+#container2 { 
+  padding-top:10px; 
   padding-left:100px; 
   padding-right:100px; 
   padding-bottom:80px; 
