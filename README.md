@@ -1,2 +1,2 @@
 # resume
-static website for wp2017
+static web page for wp2017
