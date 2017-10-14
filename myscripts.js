@@ -1,1 +1,1 @@
-$('html,body').animate({scrollTop:$('#wrapper').offset().top},10000);
+$(".content").animate({scrollTop:$('#wrapper').offset().top},10000);
