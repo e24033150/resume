@@ -63,7 +63,7 @@ hr.style1 {
 	padding-right:30px;
 	padding-bottom:30px;
 	background-color: #FFFFE0;
-	opacity:0.9;
+	opacity:0.95;
 	border-radius:10px;
 }
 .left_bottom{
@@ -80,7 +80,7 @@ hr.style1 {
 	padding-left:25px;
 	padding-right:35px;
 	background-color: #FFFFE0;
-	opacity:0.9;
+	opacity:0.95;
 	border-radius:10px;
 }
 .right{
@@ -96,7 +96,7 @@ hr.style1 {
 	padding-right:30px;
 	padding-bottom:30px;
 	background-color: #FFFFE0;
-	opacity:0.9;
+	opacity:0.95;
 	border-radius:10px;
 }
 .right_bottom{
@@ -113,7 +113,7 @@ hr.style1 {
 	padding-left:30px;
 	padding-right:30px;
 	background-color: #FFFFE0;
-	opacity:0.9;
+	opacity:0.95;
 	border-radius:10px;
 }
 .content{
@@ -127,7 +127,7 @@ hr.style1 {
 	padding-top:60px;
 	padding-bottom:80px;
 	background-color: #7FFFD4;
-	opacity:0.9;
+	opacity:0.95;
 	overflow:hidden;
 	border-radius:5px;
 }
