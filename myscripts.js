@@ -65,7 +65,7 @@ $(function() {
 				
 
 				$block.animate({"height": "50%"}, 600,"swing", function(){});
-				$block2.animate({"height": "25%"}, 400,"swing", function(){$text1.fadeIn(300);$white.animate({"paddingLeft":"6%"},300,"swing",function(){});$text2.fadeIn(300,"swing");});
+				$block2.animate({"height": "25%"}, 300,"swing", function(){$text1.fadeIn(300);$white.animate({"paddingLeft":"6%"},300,"swing",function(){});$text2.fadeIn(300,"swing");});
 				
 				
 			$slideContainer.animate({'margin-top': '-='+$slides.height()}, animationSpeed,"swing", function() {
