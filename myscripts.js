@@ -68,9 +68,7 @@ $(function() {
 				$block2.animate({"height": "25%"}, 400,"swing", function(){$text1.fadeIn(300);$white.animate({"paddingLeft":"6%"},300,"swing",function(){});$text2.fadeIn(300,"swing");});
 				
 				
-				
-			height=$slides.height();
-			$slideContainer.animate({'margin-top': '-='+height}, animationSpeed,"swing", function() {
+			$slideContainer.animate({'margin-top': '-='+$slides.height()}, animationSpeed,"swing", function() {
                 
 				currentSlide++;
 				if (currentSlide === $slides.length) {
